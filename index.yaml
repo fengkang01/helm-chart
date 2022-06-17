@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  vela-core:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-06-17T16:53:47.0839846+08:00"
+    description: A Helm chart for KubeVela core
+    digest: 9e47c51800732e92efab99c5b86f037188e2c97a1caf3d57c2548610777b2c57
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.svg
+    name: vela-core
+    type: application
+    urls:
+    - https://fengkang01.github.io/helm-chart/vela-core-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-17T16:53:47.0683342+08:00"
